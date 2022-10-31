@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+
+<head>
+   
+
+    
+    
+    <title> Blogs Padho
+
+    </title>
+
+    
+    
+    
+    <link rel="stylesheet" href="html files/style.css">
+    
+    
+    
+
+
+</head>
+
+<body>
+    
+    <header>
+        <h1 class="special3"> <center><b><i>BloggerSSpot</i></b></center></h1>
+        <h2 class="special4"><center><i></i></center></h2>
+
+    </header>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">EnterDiscussion</a>
+        <a href="#">Popular Blogs</a>
+        <a href="#">Connect blogger</a>
+        <a href="#">Login/Signup</a>
+        <a href="#">Contact Us</a>
+
+
+        
+    </nav>
+    <main>
+        
+        <b><h2><i><u>A Brief Intro</u> </i></h2></b> 
+    </main>
+    <main>
+        <b><h3><u>About Me:</u></h3></b>
+    
+    <p><i class="special">"Hello everyone this is Harshwardhan Joshi founder of 'BlogerSSpot' , i studied from Red Rose Senior Secondary School Lucknow and currently purseuing my B.tech from Galgotias University, in CSE, I am also a member of Galgotias University E-Cell , i am from Lucknow,Uttar Pradesh,so that's it about me hope you guys like my efforts".
+    </i></p>
+    <b><h3><u>Agenda:</u></h3></b>
+    <p><i class="special2">Words are most powerfull weapon one can ever have , utilize this skill to make your blogs, but wait! do you ever got a platform to show your skill? provides if not then you are the one who can be benifited the most by this site,in this site you not only post your blog but can debate with the people who are objecting your blog and counter them , this is going to be like a game.</i></p>
+    <h2><b>Harshwardhan Joshi</b></h2>
+   
+   
+    </main>
+    <footer>
+        <p>
+            <a href="https://www.linkedin.com/in/harshwardhan-joshi-0859a3219/"><img src="html files/th (11).webp" alt="no image found" width="80"></a>
+            <a href="https://mail.google.com/mail/u/0/#inbox?compose=new"><img src="html files/th (12).webp" alt="" width="80"></a>
+            
+        </p>
+        <p>
+            <a href=""></a>
+        </p>
+        
+        
+        
+    
+    </footer>
+    
+
+
+    
+    
+    
+    
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+   
+    
+</body>
+</html>
